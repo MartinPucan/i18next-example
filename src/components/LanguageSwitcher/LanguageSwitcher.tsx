@@ -13,6 +13,10 @@ const LanguageSwitcher = () => {
     {
       label: 'EN',
       value: 'en'
+    },
+    {
+      label: 'ES',
+      value: 'es'
     }
   ]
 
