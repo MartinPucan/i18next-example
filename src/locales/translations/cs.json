@@ -1,0 +1,9 @@
+{
+  "button": {
+    "delete": "Odstranit",
+    "save": "Uložit"
+  },
+  "header": {
+    "hello-world": "Ahoj světe"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "button": {
+    "delete": "Delete",
+    "save": "Save"
+  },
+  "header": {
+    "hello-world": "Hello world"
+  }
+}
